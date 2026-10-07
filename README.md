@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,swift,dart,html,css,php&perline=8&theme=dark" alt="Selected language and technology logos" />
+  <img src="https://skillicons.dev/icons?i=python,java,swift,cs,rust,html,css,php&perline=8&theme=dark" alt="Selected language and technology logos" />
 </p>
 
 ## 📊 GitHub Stats
